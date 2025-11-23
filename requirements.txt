@@ -8,3 +8,4 @@ PyPDF2
 httpx
 reportlab
 streamlit
+python-multipart
