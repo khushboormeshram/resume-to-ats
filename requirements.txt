@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdf2image
+pillow
+python-dotenv
+google-generativeai
+PyPDF2
+httpx
+reportlab
